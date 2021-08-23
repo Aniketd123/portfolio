@@ -1,0 +1,180 @@
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    
+
+    
+    background-color:whitesmoke;
+    height: 30px;
+    
+   
+
+}
+.header{
+
+    position: sticky;
+    top: 0px;
+}
+.nav-item{
+    color: rgb(29, 123, 211);
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.dp-container{
+    
+    width: 100%;
+    border:  rgb(6, 6, 7) 5px;
+    margin: 5px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    position: relative;
+    background-color: rgb(252, 248, 248);
+    
+    
+}
+.intro{
+    color: black;
+    font-family:cursive;
+    font-size: 20px;
+    position: absolute;
+    margin: 20px 260px;
+    
+}
+
+
+
+.intro-image{
+position: relative;
+
+
+}
+
+
+
+
+
+.coder-img{
+    position: absolute;
+    left: 500px;
+    top: 50px;
+    width: 100px;
+    height: 80px;
+border: black solid 2px;
+border-radius: 50%;
+
+}
+
+
+.dp-image{
+   border: 4px solid black;
+   border-radius: 50%;
+   box-shadow: black;
+}
+.skills-head{
+    font-size: 50px;
+    text-decoration: wavy;
+    width: fit-content;
+    margin-left: 38%;
+    margin-top: 60px;
+    border: 5px solid rgb(3, 3, 5);
+    border-radius: 30%;
+    padding: 2px;
+    
+    box-shadow: whitesmoke;
+}
+
+.skills{
+
+    display: flex;
+    
+    
+    
+    flex-wrap:wrap;
+    justify-content: center;
+    
+
+
+    
+    
+}
+.all{
+    margin: 85px;
+}
+
+
+
+.head-about{
+
+    font-size: 50px;
+    position: relative;
+    left: 40%;
+    width: fit-content;
+    border: 5px solid rgb(3, 3, 5);
+    border-radius: 30%;
+}
+
+.about{
+
+    position: relative;
+}
+.hobbypara{
+position: absolute;
+left: 30%;
+top: 80%;
+
+
+
+
+
+
+
+
+}
+.hobby-list{
+
+    position: relative;
+    left: 0%;
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 150px;
+}
+.gym{
+    border: black 8px solid;
+    height: 25%;
+    width: 35%;
+    
+}
+
+body{
+    background-color: whitesmoke;
+ 
+}
+
+.foot-container{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 90px;
+
+}
+.foot{
+    color: rgba(18, 110, 248, 0.699);
+    text-decoration: none;
+    font-size: 22px;
+    margin-left: 95px;
+}
